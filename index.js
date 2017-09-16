@@ -1,7 +1,7 @@
-var gameOn=false;
-
-$('#turnX').click(function(){
-   turn = "0";
-   computersTurn = "X";
+$(document).ready(function(){
+   var turn = "X";
+   var turns=["#", "#", "#", "#", "#", "#", "#","#", "#",];
+   var computersTurn="0";
+var gamesOn= 
    
-});
+}
